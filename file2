@@ -1,0 +1,7 @@
+fatal: ambiguous argument 'commands': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+Uaer@DESKTOP-DD0GDJH MINGW64 /d/dev1/dev4 (dev2)
+$ git config status
+error: key does not contain a section: status
