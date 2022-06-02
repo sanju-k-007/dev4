@@ -8,3 +8,5 @@
 		       or: git remote set-branches [--add] <name> <branch>...
 		          or: git remote get-url [--push] [--all] <name>                               or: git remote set-url [--push] <name> <newurl> [<oldurl>]                                            or: git remote set-url --add <name> <newurl>   			                                 or: git remote set-url --delete <name> <url>
 				       -v, --verbose         be verbose; must be placed before a subcommand
+ ok this is good
+ 
